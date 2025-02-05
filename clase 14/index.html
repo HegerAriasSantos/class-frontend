@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<style>
+  .is-valid {
+    border: 2px solid green;
+    outline-color: green;
+  }
+
+  .is-invalid {
+    border: 2px solid red;
+    outline-color: red;
+  }
+
+  .hide {
+    display: none;
+  }
+
+  .show {
+    display: block;
+  }
+
+  .error {
+    color: red;
+  }
+</style>
+
+<body>
+
+  <form id="form">
+    <div class="">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" placeholder="Enter your name">
+      <span id="error-name" class="hide error"></span>
+    </div>
+
+    <label for="email">Email:</label>
+    <textarea id="email" name="email"></textarea>
+    <span id="error-email2" class="hide error"></span>
+
+    <button type="submit">Submit</button>
+  </form>
+
+  <div id="container"></div>
+
+  <script src="./main.js"></script>
+</body>
+
+</html>
