@@ -1,5 +1,5 @@
-Clase 14: Formularios y Validación
-- Eventos de formularios
-- Validación con JavaScript
-- Feedback al usuario
-- Práctica: Validar formulario de contacto
+Clase 15: Arrays y Objetos
+- Trabajar con arrays
+- Métodos de array básicos (filter, map, foreach, push, pop, find, findIndex, reduce, some, every)
+- Objetos literales y sus métodos (hasOwnProperty, Object (.keys, .values, .entries))
+- Práctica: Manipular estructuras de datos
