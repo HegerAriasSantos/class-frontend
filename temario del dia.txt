@@ -1,5 +1,6 @@
-Clase 15: Arrays y Objetos
-- Trabajar con arrays
-- Métodos de array básicos (filter, map, foreach, push, pop, find, findIndex, reduce, some, every)
-- Objetos literales y sus métodos (hasOwnProperty, Object (.keys, .values, .entries))
-- Práctica: Manipular estructuras de datos
+Clase 17: Asincronía Básica
+- Callbacks
+- Promesas básicas
+- Async/Await
+- setTimeout/setInterval
+- Práctica: peticiones a apis publicas
