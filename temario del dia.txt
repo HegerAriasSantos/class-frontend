@@ -1,6 +1,13 @@
-Clase 17: Asincronía Básica
-- Callbacks
-- Promesas básicas
-- Async/Await
-- setTimeout/setInterval
-- Práctica: peticiones a apis publicas
+Clase 17: Proyecto Final
+- modulos JavaScript
+- como estructurar un proyecto
+- buenas prácticas
+
+
+Proyecto 9 "Buscador de personajes de rick and morty"
+* crear la applicacion haciendo uso de la siguiente API: https://rickandmortyapi.com/
+* Crear un layout similar o a gusto dejo este de referencia (https://hegerariassantos.github.io/RickAndMortyAPI/)
+* Implementar una busqueda automatica al renderizar la pagina que se muestren todos los personajes.
+* Añadir un input en el cual al ser escrito el nombre de algun personaje va a borrar todo el contenido que haya de los personajes ya renderizados y mostrara solo ese personaje y en caso de borrar el contenido del input se renderizaran todos los personajes de nuevo (hay puntos extras si hacen este paso con un buen rendimiento).
+* Hacer responsiva la pagina.
+* Utilizar la api publica de rick and morty para poder renderizar la informacion y poder obtener las imagenes.
